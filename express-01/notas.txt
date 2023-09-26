@@ -1,0 +1,12 @@
+No terminal:
+cd express-01
+npm install
+npm start
+
+
+Lançar deploy
+vercel -> vercel.json
+back4app -> Dockerfile
+railway
+repl.it
+cyckic.sh
